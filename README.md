@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Travel Log with Next.js
 
-## Getting Started
+- users can store places they have travelled to before
+
+Created following a [tutorial by Coding Garden](https://www.youtube.com/watch?v=lCCC2KK3XmA&ab_channel=CodingGarden)
 
 First, run the development server:
 
@@ -12,27 +14,48 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Ui
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [Next.JS](https://beta.nextjs.org/docs)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Database
 
-## Learn More
+- Node.JS
+- [MongoDB](https://learn.mongodb.com/)
 
-To learn more about Next.js, take a look at the following resources:
+## Styling
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [tailwindcss](https://tailwindcss.com/)
+- [Daisy.ui](https://daisyui.com/)
+- css modules
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Forms
 
-## Deploy on Vercel
+- [React Hook Form](https://react-hook-form.com/get-started#Applyvalidation)
+- [zod validation](https://zod.dev/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Mapping 
+
+- [react-leaflet](https://react-leaflet.js.org/)
+<!-- - [react-map-gl](https://visgl.github.io/react-map-gl/docs) -->
+
+
+## Lottie's additions
+
+
+- have a screen recording demo here of final product
+- a couple gifs 
+
+
+<!-- - [React Spring Bottom Sheet](https://react-spring.bottom-sheet.dev/) -->
+
+
+- add floating button and modal 
+
+
